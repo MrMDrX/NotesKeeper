@@ -18,13 +18,26 @@ This is a simple Notes Keeper application built with Python using the Tkinter an
    git clone https://github.com/MrMDrX/NotesKeeper.git
    ```
 
-2. **Install Dependencies:**
+2. **Navigate to the Project Directory:**
+
+   ```bash
+   cd NotesKeeper
+   ```
+
+3. **Create and Activate a Virtual Environment (Optional but recommended):**
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
+   ```
+
+4. **Install Dependencies:**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Application:**
+5. **Run the Application:**
    ```bash
    python app.py
    ```
@@ -50,6 +63,7 @@ This is a simple Notes Keeper application built with Python using the Tkinter an
    - Click on the "Logout" button to log out.
 
 ## Screenshots
+
 - Welcome UI
   ![Welcome UI](https://github.com/MrMDrX/NotesKeeper/blob/main/screenshots/welcome.png)
 - Register UI
