@@ -1,0 +1,8 @@
+bcrypt==4.1.2
+customtkinter==5.2.1
+darkdetect==0.8.0
+dnspython==2.4.2
+packaging==23.2
+Pillow==10.1.0
+pymongo==4.6.1
+tk==0.1.0
